@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "bitcoinjs-lib": "^1.4.3",
+    "bitcoinjs-lib": "^6.1.7",
     "body-parser": "^1.10.2",
     "express": "^5.0.1",
     "multer": "^0.1.7",
