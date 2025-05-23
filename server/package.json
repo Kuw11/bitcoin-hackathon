@@ -13,7 +13,7 @@
     "bitcoinjs-lib": "^1.4.3",
     "body-parser": "^1.10.2",
     "express": "^5.0.1",
-    "multer": "^0.1.7",
+    "multer": "^2.0.0",
     "nedb": "^1.1.1"
   }
 }
